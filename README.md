@@ -15,7 +15,9 @@
 <p><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Linear-343a40?style=flat&logo=linear&logoColor=5E6AD2"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></p>
   
 #
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Seokhun-Yang&show_icons=true&theme=radical)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seokhun-Yang&layout=compact&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Seokhun-Yang&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seokhun-Yang&layout=compact&theme=radical)
 
 </div>
 
