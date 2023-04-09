@@ -6,7 +6,7 @@
   
 #
 <h3>I love..</h3>
-<p>🖥 Youtube,&nbsp;&nbsp;💻 Programming,&nbsp;&nbsp;🎥 Movies,&nbsp;&nbsp;🎮 Games</p>
+<p>🖥 Youtube,&nbsp;&nbsp;💻 Programming,&nbsp;&nbsp;🎥 Movies</p>
   
 #
 <h3>Tech Stack</h3>
