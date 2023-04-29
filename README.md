@@ -1,6 +1,6 @@
 <div align="center">
 <h3>Hi There!</h3>
-<p>I'm a Junior Backend Developer.</p>
+<p>I'm a Studnet who is studying Backend Development.</p>
 <p> My main skills are Java and Python.</p>
 <p>I'm in the Kyungpook National University in South Korea 🇰🇷</p>
   
