@@ -6,11 +6,11 @@
   
 #
 <h3>I love..</h3>
-<p>🖥 Youtube,&nbsp;&nbsp;💻 Programming,&nbsp;&nbsp;🎥 Movies</p>
+<p>💻 Programming,&nbsp;&nbsp;🎸 Bass,&nbsp;&nbsp;🎥 Movies</p>
   
 #
 <h3>Tech Stack</h3>
-<p><img src="https://img.shields.io/badge/Java-ca6702?style=flat-square&logo=Java&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-e9ecef?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-faedcd?style=flat&logo=Git&logoColor=F05032"/></p>
+<p><img src="https://img.shields.io/badge/Java-ca6702?style=flat-square&logo=Java&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-e9ecef?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-faedcd?style=flat&logo=Git&logoColor=F05032"/></p>
 
 <p><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Linear-343a40?style=flat&logo=linear&logoColor=5E6AD2"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></p>
   
