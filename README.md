@@ -1,37 +1,11 @@
 <div align="center">
   <h3>Hi There!</h3>
-</div>
-
-<div align="left">
   <br>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  I am a student at Kyungpook National University in South Korea 🇰🇷, currently immersing myself
+  <p>
+    I am a student at Kyungpook National University in South Korea 🇰🇷, currently immersing myself in the fascinating world of Backend Development.
   </p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  in the fascinating world of Backend Development.
-  </p>
-  <br>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  My journey so far has been centered around mastering Java and Python, striving to understand
-  </p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  how to construct effective and reliable backend systems with these powerful tools.
+  <p>
+    My journey so far has been centered around mastering Java and Python, striving to understand how to construct effective and reliable backend systems with these powerful tools.
   </p>
   <br>
 </div>
