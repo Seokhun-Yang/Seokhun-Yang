@@ -17,11 +17,11 @@
 
 ---
 <h3>Tech Stack</h3>
-<p><img src="https://img.shields.io/badge/Java-ca6702?style=flat-square&logo=Java&logoColor=white"/></p>
-<p><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></p>
-<p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></p>
-<p><img src="https://img.shields.io/badge/MySQL-e9ecef?style=flat&logo=MySQL&logoColor=4479A1"/></p>
-<p><img src="https://img.shields.io/badge/Git-faedcd?style=flat&logo=Git&logoColor=F05032"/></p>
+<p><img src="https://img.shields.io/badge/Java-ca6702?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-e9ecef?style=flat&logo=MySQL&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Git-faedcd?style=flat&logo=Git&logoColor=F05032"/></p>
 
 </div>
 
